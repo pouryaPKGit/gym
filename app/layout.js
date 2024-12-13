@@ -3,7 +3,7 @@ import "./globals.css";
 import ScrollToTop from "@/components/modules/ScrollToTop";
 import AOSInit from "@/utils/aos";
 
-import 'react-toastify/dist/ReactToastify.css';
+
 
 const geistSans = localFont({
   src: "./fonts/GeistVF.woff",
