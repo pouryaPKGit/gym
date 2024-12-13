@@ -1,5 +1,5 @@
 import Link from "next/link";
-import "react-toastify/dist/ReactToastify.css";
+
 
 const Login = () => {
   return (
